@@ -1,0 +1,12 @@
+{
+  "name": "LEB02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NUTTO557/LEB02.git",
+  "author": "NUTTO557 <32545424+NUTTO557@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.1",
+    "twig": "^1.10.5"
+  }
+}
